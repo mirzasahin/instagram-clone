@@ -1,0 +1,31 @@
+.icon-items a {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+.line {
+    width: 100%;
+    border: 0.2px solid rgb(195, 195, 195);
+}
+
+.story-img img {
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    padding: 2px;
+    border: 2px solid rgb(239, 79, 5);
+   
+}
+
+.story-img figcaption {
+    font-size: 12px;
+    text-align: center;
+
+}
+
+
+
+.share:hover{
+    color: rgb(0, 132, 255);
+}
