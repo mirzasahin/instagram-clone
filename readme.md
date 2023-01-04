@@ -18,7 +18,8 @@ Any feedback, opinions, or suggestions are very welcome!
 * Creating readme.me with commonmark
 
 ### 👇 Preview 
-https://user-images.githubusercontent.com/71216931/210542486-622407b1-35e3-4885-ac84-96d89ea08aed.mp4
+![ggg](https://user-images.githubusercontent.com/71216931/210552043-4a33a9d9-8dca-4cb2-aa2b-a2d5f077f3f1.gif)
+
 ### 🖐 You can contact me on LinkedIn.
 ▶ **[Contact me on Linkedin](https://www.linkedin.com/in/mirzasahin/)**
 
